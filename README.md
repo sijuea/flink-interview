@@ -27,7 +27,7 @@
 
 
 ## 📞 联系我  
-- **GitHub**: [@你的用户名](https://github.com/sijuea)    
+- **GitHub**: [@sijuea](https://github.com/sijuea)    
 
 ---  
 
